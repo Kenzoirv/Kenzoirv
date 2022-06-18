@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kenzoirv
-- 👀 I’m interested in Data Sciences
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on idk because i'm newbie
+- 👋 Hi, I’m @Charardchalam
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Basic Algorithm
+- 💞️ I’m looking to collaborate on all things
 - 📫 How to reach me just text me lol
 
 <!---
